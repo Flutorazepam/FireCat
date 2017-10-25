@@ -1,0 +1,1065 @@
+fileFormatVersion: 2
+guid: fef7f3e263725314fbc62fe279ca53af
+timeCreated: 1508155869
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mon3_sprite_base_0
+    21300002: mon3_sprite_base_1
+    21300004: mon3_sprite_base_2
+    21300006: mon3_sprite_base_3
+    21300008: mon3_sprite_base_4
+    21300010: mon3_sprite_base_5
+    21300012: mon3_sprite_base_6
+    21300014: mon3_sprite_base_7
+    21300016: mon3_sprite_base_8
+    21300018: mon3_sprite_base_9
+    21300020: mon3_sprite_base_10
+    21300022: mon3_sprite_base_11
+    21300024: mon3_sprite_base_12
+    21300026: mon3_sprite_base_13
+    21300028: mon3_sprite_base_14
+    21300030: mon3_sprite_base_15
+    21300032: mon3_sprite_base_16
+    21300034: mon3_sprite_base_17
+    21300036: mon3_sprite_base_18
+    21300038: mon3_sprite_base_19
+    21300040: mon3_sprite_base_20
+    21300042: mon3_sprite_base_21
+    21300044: mon3_sprite_base_22
+    21300046: mon3_sprite_base_23
+    21300048: mon3_sprite_base_24
+    21300050: mon3_sprite_base_25
+    21300052: mon3_sprite_base_26
+    21300054: mon3_sprite_base_27
+    21300056: mon3_sprite_base_28
+    21300058: mon3_sprite_base_29
+    21300060: mon3_sprite_base_30
+    21300062: mon3_sprite_base_31
+    21300064: mon3_sprite_base_32
+    21300066: mon3_sprite_base_33
+    21300068: mon3_sprite_base_34
+    21300070: mon3_sprite_base_35
+    21300072: mon3_sprite_base_36
+    21300074: mon3_sprite_base_37
+    21300076: mon3_sprite_base_38
+    21300078: mon3_sprite_base_39
+    21300080: mon3_sprite_base_40
+    21300082: mon3_sprite_base_41
+    21300084: mon3_sprite_base_42
+    21300086: mon3_sprite_base_43
+    21300088: mon3_sprite_base_44
+    21300090: mon3_sprite_base_45
+    21300092: mon3_sprite_base_46
+    21300094: mon3_sprite_base_47
+    21300096: mon3_sprite_base_48
+    21300098: mon3_sprite_base_49
+    21300100: mon3_sprite_base_50
+    21300102: mon3_sprite_base_51
+    21300104: mon3_sprite_base_52
+    21300106: mon3_sprite_base_53
+    21300108: mon3_sprite_base_54
+    21300110: mon3_sprite_base_55
+    21300112: mon3_sprite_base_56
+    21300114: mon3_sprite_base_57
+    21300116: mon3_sprite_base_58
+    21300118: mon3_sprite_base_59
+    21300120: mon3_sprite_base_60
+    21300122: mon3_sprite_base_61
+    21300124: mon3_sprite_base_62
+    21300126: mon3_sprite_base_63
+    21300128: mon3_sprite_base_64
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mon3_sprite_base_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 206
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 207
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 209
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 208
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 207
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 223
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 224
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 224
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 224
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 224
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 223
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_12
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 224
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 224
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_14
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 224
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_15
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 223
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 143
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 141
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 139
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 140
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 141
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_22
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 155
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_24
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_25
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 154
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 78
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 74
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 108
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 79
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 79
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 87
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 101
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 99
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_35
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 94
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 94
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_37
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 80
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 95
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_39
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 90
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_41
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 27
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 27
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_45
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 28
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 27
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 28
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 28
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 28
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_51
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_52
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 28
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 28
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 27
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_55
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 28
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_56
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_57
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_58
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_59
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_60
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 28
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 28
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 28
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_63
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 28
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mon3_sprite_base_64
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: 6fb7edd120687a24c8407974a8f09677
+timeCreated: 1508418333
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trees-full-sept-13-2017_0
+    21300002: trees-full-sept-13-2017_1
+    21300004: trees-full-sept-13-2017_2
+    21300006: trees-full-sept-13-2017_3
+    21300008: trees-full-sept-13-2017_4
+    21300010: trees-full-sept-13-2017_5
+    21300012: trees-full-sept-13-2017_6
+    21300014: trees-full-sept-13-2017_7
+    21300016: trees-full-sept-13-2017_8
+    21300018: trees-full-sept-13-2017_9
+    21300020: trees-full-sept-13-2017_10
+    21300022: trees-full-sept-13-2017_11
+    21300024: trees-full-sept-13-2017_12
+    21300026: trees-full-sept-13-2017_13
+    21300028: trees-full-sept-13-2017_14
+    21300030: trees-full-sept-13-2017_15
+    21300032: trees-full-sept-13-2017_16
+    21300034: trees-full-sept-13-2017_17
+    21300036: trees-full-sept-13-2017_18
+    21300038: trees-full-sept-13-2017_19
+    21300040: trees-full-sept-13-2017_20
+    21300042: trees-full-sept-13-2017_21
+    21300044: trees-full-sept-13-2017_22
+    21300046: trees-full-sept-13-2017_23
+    21300048: trees-full-sept-13-2017_24
+    21300050: trees-full-sept-13-2017_25
+    21300052: trees-full-sept-13-2017_26
+    21300054: trees-full-sept-13-2017_27
+    21300056: trees-full-sept-13-2017_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 228
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 234
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 236
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 225
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 221
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 279
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 228
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 227
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 221
+        width: 78
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_10
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 238
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_11
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 238
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_12
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 238
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 182
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 202
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 197
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 166
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 100
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 144
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 102
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 92
+        width: 89
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 99
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 102
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 76
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 16
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees-full-sept-13-2017_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 29
+        width: 170
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
